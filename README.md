@@ -164,9 +164,9 @@ CLUMS follows a client-server architecture.
 | Operating System Monitoring | Windows Event Logs               |
 | Application Detection       | Windows API / Process Monitoring |
 | Backend                     | Node.js and Express.js           |
-| Database                    | PostgreSQL                       |
+| Database                    | MySQL and SQLite                 |
 | Real-time Communication     | WebSocket                        |
-| Frontend                    | Flutter Web                      |
+| Frontend                    | HTML CSS                         |
 | Authentication              | JWT                              |
 | API Communication           | REST API                         |
 
@@ -220,7 +220,7 @@ Development will be divided into phases to ensure that each component is properl
 ### Phase 1 – Backend and Database
 
 - [ ] Set up the backend project.
-- [ ] Configure PostgreSQL.
+- [ ] Configure MySQL or SQLite.
 - [ ] Create database tables.
 - [ ] Implement computer registration API.
 - [ ] Implement student session API.
